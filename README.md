@@ -13,8 +13,4 @@ Used language  : Python
 Libraries  : OpenCv,Tensorflow,Keras,Numpy
 
 
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/A_test.jpg " width="250" height="250" />
-
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/B_test.jpg " width="250" height="250" />
-
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/Z_test.jpg " width="250" height="250" />
+<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/A_test.jpg " width="250" height="250" /><img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/B_test.jpg " width="250" height="250" /><img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/Z_test.jpg " width="250" height="250" />
