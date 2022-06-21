@@ -1,4 +1,4 @@
-# sign_language_asl-alphabet
+# 7 sign_language_asl-alphabet
 
 Asl alphabet hand gestures recognition project was built to understand the letter(s) from specific hand gestures.
 
