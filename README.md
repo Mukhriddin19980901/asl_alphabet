@@ -7,8 +7,8 @@ It was built through neural networks
 Used language  : Python
 Libraries  : OpenCv,Tensorflow,Keras,Numpy
 
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/A_test.jpg " width="50" height="50" />
+<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/A_test.jpg " width="450" height="450" />
 
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/B_test.jpg " width="50" height="50" />
+<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/B_test.jpg " width="450" height="450" />
 
-<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/Z_test.jpg " width="50" height="50" />
+<img src="https://github.com/Mukhriddin19980901/sign_language_asl-alphabet/blob/main/Z_test.jpg " width="450" height="450" />
